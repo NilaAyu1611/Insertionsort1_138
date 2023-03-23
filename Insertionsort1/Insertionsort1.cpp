@@ -32,6 +32,7 @@ void input()
         cin >> arr[i];                          // Memasukkan nilai data n kedalam Array arr
 
     }
+};                                          // Procedure Insertionsort
 
 
 

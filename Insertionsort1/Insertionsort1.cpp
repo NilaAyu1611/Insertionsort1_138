@@ -82,4 +82,7 @@ void display()
         cout << arr[j] << endl; // Output ke layar
 
     }
+    cout << endl;   // Output baris kosong
+}
+
     

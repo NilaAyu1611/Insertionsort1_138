@@ -21,5 +21,5 @@ void input()
             cout << "\nArray yang anda masukkan maksimal 20 elemen. \n";    // Menampilkan pesan jika data lebih dari 20
         }
     }
-
+    cout << endl;                               // Membuat jarak per baris program
 

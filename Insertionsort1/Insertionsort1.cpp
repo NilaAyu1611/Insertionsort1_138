@@ -64,5 +64,10 @@ void insertionsort()
             cout << arr[k] << " ";         // Output ke layar
         }
 
-
     }
+
+};
+
+void display()
+{
+    
